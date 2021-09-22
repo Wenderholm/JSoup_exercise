@@ -19,5 +19,10 @@
             <artifactId>jsoup</artifactId>
             <version>1.14.2</version>
         </dependency>
+        <dependency>
+            <groupId>net.sf.javamusictag</groupId>
+            <artifactId>jid3lib</artifactId>
+            <version>0.5.4</version>
+        </dependency>
     </dependencies>
 </project>
